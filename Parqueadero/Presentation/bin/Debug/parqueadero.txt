@@ -1,0 +1,5 @@
+Yesith,Chimas,Estudiante,Bloque A,Bicicleta,Null,8
+Diego,Chinchilla,Docente,Bloque H,Camioneta,ASD-765,18
+Jhon,Bolaño,Docente,Bloque I,Moto,WER-321,18
+Jorge,Perez,Particular,Bloque A,Bicicleta,Null,1
+Amilkar,Lopez,Administrativo,Bloque B,Camioneta,CDE-654,13

@@ -1,0 +1,27 @@
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\bin\Debug\DAL.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\bin\Debug\DAL.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\bin\Debug\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\bin\Debug\Entity.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\obj\Debug\DAL.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\DAL\obj\Debug\DAL.pdb
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\bin\Debug\DAL.dll
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\bin\Debug\DAL.pdb
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\bin\Debug\Entity.dll
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\bin\Debug\Entity.pdb
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\obj\Debug\DAL.dll
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\DAL\obj\Debug\DAL.pdb
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\bin\Debug\DAL.dll
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\bin\Debug\DAL.pdb
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\bin\Debug\Entity.dll
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\bin\Debug\Entity.pdb
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\obj\Debug\DAL.dll
+C:\Users\57322\Desktop\Prog.III - Proyecto Final\Parqueadero\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,12 @@
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\bin\Debug\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\bin\Debug\Entity.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\Entity.pdb
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\Entity\bin\Debug\Entity.dll
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\Entity\bin\Debug\Entity.pdb
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\Entity\obj\Debug\Entity.dll
+C:\Users\tonyb\Downloads\Parqueadero\Parqueadero\Entity\obj\Debug\Entity.pdb

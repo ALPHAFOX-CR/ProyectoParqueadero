@@ -1,0 +1,15 @@
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\Presentation.exe
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\Presentation.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\BLL.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\DAL.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\BLL.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\Entity.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\bin\Debug\DAL.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\obj\Debug\Presentation.exe
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Presentation\obj\Debug\Presentation.pdb
